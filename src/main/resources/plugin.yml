@@ -1,0 +1,10 @@
+name: NekoBenchmark
+main: net.emtips.bencgmark
+version: 1.0.0
+author: NekokeCore
+commands:
+  benchmark:
+    description: 开始跑分
+    usage: /<command>
+    permission: net.emtips.benchmark
+    permission-message: 您没有权限net.emtips.benchmark去那样做！
